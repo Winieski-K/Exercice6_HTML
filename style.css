@@ -1,61 +1,61 @@
-#greenDiv1{
-  background-color: green;
+#Div1{
+  background-color: rgb(46, 204, 113);
   height: 40px;
   width: 80%;
   float: left;
 }
 
-#blueDiv{
-  background-color: blue;
+#Div2{
+  background-color: rgb(41, 128, 185);
   height: 40px;
   width: 20%;
   float: left;
 }
 
-#redDiv{
-  background-color: red;
+#Div3{
+  background-color: rgb(231, 76, 60);
   height: 100px;
   width: 28%;
   float: left;
 }
 
-#orangeDiv{
-  background-color: orange;
+#Div4{
+  background-color: rgb(230, 126, 34);
   height: 50px;
   width: 36%;
   float: left;
 }
 
-#grayDiv{
-  background-color: gray;
+#Div5{
+  background-color: rgb(149, 165, 166);
   height: 50px;
   width: 36%;
   float: left;
 }
 
-#yellowDiv{
-  background-color: yellow;
+#Div6{
+  background-color: rgb(243, 156, 18);
   height: 50px;
   width: 24%;
   float: left;
 }
 
-#greenDiv2{
-  background-color: green;
+#Div7{
+  background-color: rgb(22, 160, 133);
   height: 50px;
   width: 24%;
   float: left;
 }
 
-#orangeDiv2{
-  background-color: orange;
+#Div8{
+  background-color: rgb(211, 84, 0);
   height: 50px;
   width: 24%;
   float: left;
 }
 
-#blackDiv{
-  background-color: black;
+#Div9{
+  background-color: rgb(44, 62, 80);
   height: 125px;
   width: 100%;
   float: left;
